@@ -14,8 +14,8 @@ As I was searching for an X thousand dollar card to fill out a sorare team, I wa
 >
 > - Lower the bar to entry into sorare competitions (competitors can pay a  
 >   fraction of lifetime ownership price to enter once)
-> - Allow card owners to generate revenue from assets that they are not using  
->    for competition
+> - Allow card owners to generate revenue from assets that they are not using
+>   for competition
 >
 > A simple version of this would be relatively easy to create. The following would need to be tracked:
 >
