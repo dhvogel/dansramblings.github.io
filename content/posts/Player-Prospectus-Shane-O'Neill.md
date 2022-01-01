@@ -30,4 +30,4 @@ Who else is a team-oriented, tough CB who can anchor a new team during tough tim
 
 Successful MLS start-ups are typically multi-year projects. Toronto will be no different.
 
-Toronto has a good not great first year as Insigne and maybe Belotti adjust to MLS (which is absolutely a different kind of soccer than Europe). Shane puts up a bunch of double-doubles, some triple-doubles and triple-triples, but not a lot of clean sheets. The second year, however, TFC adds more depth to their lineup and it out on defense -- Shane’s numbers continue to improve, making him one of the most valuable defenders in the MLS. He’s there through 2024.
+Toronto has a good not great first year as Insigne and maybe Belotti adjust to MLS (which is absolutely a different kind of soccer than Europe). Shane puts up a bunch of double-doubles, some triple-doubles and triple-triples, but not a lot of clean sheets. The second year, however, TFC adds more depth to their lineup and figures it out on defense -- Shane’s numbers continue to improve, making him one of the most valuable defenders in the MLS. He’s there through 2024.
