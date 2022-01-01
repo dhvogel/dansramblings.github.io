@@ -21,12 +21,6 @@ languages:
     weight: 1
     menu:
       main:
-        - name: Archive
-          url: archives
-          weight: 5
-        - name: Search
-          url: search/
-          weight: 10
         - name: Tags
           url: tags/
           weight: 10
@@ -66,8 +60,6 @@ params:
     # imageWidth: 120
     # imageHeight: 120
     buttons:
-      - name: Archives
-        url: archives
       - name: Tags
         url: tags
 
