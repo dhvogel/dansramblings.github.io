@@ -7,7 +7,7 @@ ShowToc: false
 TocOpen: false
 ---
 
-As I was searching for an X thousand dollar card to fill out a sorare team, I was thinking to myself that there has to be a better way to do this. So I wrote a proposal to some friends about how a Sorare lending market would look:
+As I was searching for a card to fill out a sorare team, I was thinking to myself that there has to be a better way to do this. So I wrote a proposal to some friends about how a Sorare lending market would look:
 
 > <em>There should be a lending market for sorare players. This would in general make
 > the sorare card market more efficient and in specific:
