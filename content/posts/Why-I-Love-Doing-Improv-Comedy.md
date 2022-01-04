@@ -11,7 +11,7 @@ A few months ago a friend of mine mentioned that he was taking an improv comedy 
 
 ### Improv taught me life skills
 
-Improv taught me to be flexible. Sometimes I find myself preparing what to say before I even enter a conversation, anticipating what the other person might say back to me, and what I might reply with. Improv basically taught me to cut that shit out. I get so much more out of conversations when I understand what the other person is saying and where they are coming from. I can only do that by going into these conversations with an open mind.
+Improv taught me to be flexible. Sometimes I find myself preparing what to say before I even enter a conversation, anticipating what the other person might say back to me, and what I might reply with. Improv basically taught me to cut that shit out. I get so much more out of conversations when I understand what the other person is saying and where they are coming from. This is an absolutely necessary mindset in improv. You don't know where your scene partner is going to take the scene, but the best laughs come from when you go with it.
 
 Improv taught me to be a team player. As the oldest child in my family, at times I felt like the prodigal son growing up. I had parents that celebrated my achievements which boosted my self esteem but at times made me feel like competing, achieving, and winning were part of the natural order of my life. At improv, there are no winners. There are no losers. It’s a true team experience where only collaboration and mutual understanding can make the audience – and the performers – laugh.
 
