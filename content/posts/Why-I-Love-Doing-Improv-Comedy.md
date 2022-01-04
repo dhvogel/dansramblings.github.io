@@ -1,8 +1,8 @@
 ---
 title: "Why I Love Doing Improv Comedy"
 date: "2022-01-03"
-tags: ["Improv"]
-categories: ["life"]
+tags: []
+categories: ["Improv"]
 ShowToc: false
 TocOpen: false
 ---
