@@ -1,16 +1,8 @@
 ---
 title: "2022 MLS Power Rankings - Top 5"
 date: "2021-12-25"
-tags:
-  [
-    "MLS",
-    "Nashville SC",
-    "New England Revolution",
-    "Vancouver Whitecaps",
-    "Seattle Sounders",
-    "Sporting KC",
-  ]
-categories: ["rankings"]
+tags: ["MLS"]
+categories: ["Sorare"]
 ShowToc: false
 TocOpen: false
 ---

@@ -2,7 +2,7 @@
 title: "Feature Request: Season-Long Loans"
 date: "2021-12-31"
 tags: ["Feature Request"]
-categories: ["feature requests"]
+categories: ["Sorare"]
 ShowToc: false
 TocOpen: false
 ---

@@ -1,5 +1,5 @@
 baseURL: "https://danssorareramblings.github.io"
-title: Dan's Sorare Ramblings
+title: Dan's Ramblings
 paginate: 5
 theme: hugo-PaperMod
 
@@ -64,9 +64,9 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Dan's Sorare Ramblings"
+    Title: "Dan's Ramblings"
     Content: >
-      My name is Dan and I am a Sorare addict. Here I write down my thoughts. None of this is investment advice.
+      My name is Dan. Here I write down my thoughts.
   socialIcons:
     - name: github
       url: "https://github.com/danssorareramblings/danssorareramblings.github.io"

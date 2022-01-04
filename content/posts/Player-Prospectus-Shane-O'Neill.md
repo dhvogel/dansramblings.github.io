@@ -1,8 +1,8 @@
 ---
 title: "Player Prospectus: Shane O'Neill"
 date: "2022-01-01"
-tags: ["Player Prospectus", "Shane O'Neill", "Toronto FC"]
-categories: ["player prospectus"]
+tags: ["Player Prospectus"]
+categories: ["Sorare"]
 ShowToc: false
 TocOpen: false
 ---
