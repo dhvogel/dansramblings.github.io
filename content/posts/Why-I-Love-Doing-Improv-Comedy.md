@@ -7,7 +7,7 @@ ShowToc: false
 TocOpen: false
 ---
 
-A few months ago a friend of mine mentioned that he was taking an improv comedy class and was enjoying it more than he expected to. Looking at my quarantine-stricken calendar, I figured “what the fuck, might as well try it too”. Internally, this represented a huge leap of faith for me as a prior version of myself would ridicule “theater kids”, “band kids”, “art kids”, or any other kind of kid brave enough to express themself in front of others. Long story short, I ended up loving it and hope to continue doing improv comedy for the foreseeable future. Here’s why.
+A few months ago a friend of mine mentioned that he was taking an improv comedy class and was enjoying it more than he expected to. Looking at my quarantine-stricken calendar, I figured “what the fuck, might as well try it too”. Internally, this represented a leap of faith for me as a prior version of myself would ridicule “theater kids”, “band kids”, “art kids”, or any other kind of kid brave enough to express themself in front of others. Long story short, I ended up loving it and hope to continue doing improv comedy for the foreseeable future. Here’s why.
 
 ### Improv taught me life skills
 
