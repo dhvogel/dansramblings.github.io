@@ -19,7 +19,7 @@ For more on improv and life skills, I would highly recommend [this video](https:
 
 ### I met a bunch of other cool people
 
-Also enrolled in the improv class were people who weren’t afraid to try something new, enjoyed being silly, and who also wanted to meet other people. Improv requires opening yourself up and being vulnerable. Doing this repeatedly around the same group builds a level of trust that is hard to come by in the “real world”. By the end of the class I felt like I could really connect with my classmates. We still keep in touch and a group is continuing on doing improv together.
+Also enrolled in the improv class were people who weren’t afraid to try something new, enjoyed being silly, and who also wanted to meet other people. Improv required opening myself up and being vulnerable. Doing this repeatedly around the same group built a level of trust that is hard to come by in the “real world”. By the end of the class I felt like I could really connect with my classmates. We still keep in touch and a group is continuing on doing improv together.
 
 ### Improv was just plain old fun
 
