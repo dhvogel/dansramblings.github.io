@@ -69,7 +69,7 @@ And I issue this challenge to you:
 - **Silver Trophies** are 2 "trophy points"
 - **Bronze Trophies** are 1 "trophy point"
 
-The competitor with the most trophy points from **1/20/22 - 2/20/22** wins
+The competitor with the most trophy points from **1/20/22 - 1/31/22** wins
 a brand new [Montucky Cold Snacks](https://montuckycoldsnacks.com/collections/all/products/who-doesnt-like-a-blue-and-pink-combo) hat from yours truly:
 
 > ![Montucky Hat](../../Montucky-hat.png)
