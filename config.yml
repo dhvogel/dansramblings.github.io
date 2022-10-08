@@ -1,4 +1,4 @@
-baseURL: "https://danssorareramblings.github.io"
+baseURL: "https://dansramblings.com"
 title: Dan's Ramblings
 paginate: 5
 theme: hugo-PaperMod
@@ -69,7 +69,7 @@ params:
       My name is Dan. Here I write down my thoughts.
   socialIcons:
     - name: github
-      url: "https://github.com/danssorareramblings/danssorareramblings.github.io"
+      url: "https://github.com/dhvogel/dansramblings.github.io"
     - name: RsS
       url: "index.xml"
 
