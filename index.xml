@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Dan&#39;s Ramblings</title>
-    <link>https://danssorareramblings.github.io/</link>
+    <link>https://dansramblings.com/</link>
     <description>Recent content on Dan&#39;s Ramblings</description>
     <image>
-      <url>https://danssorareramblings.github.io/papermod-cover.png</url>
-      <link>https://danssorareramblings.github.io/papermod-cover.png</link>
+      <url>https://dansramblings.com/papermod-cover.png</url>
+      <link>https://dansramblings.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dansramblings.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why I applied to business school</title>
-      <link>https://danssorareramblings.github.io/posts/why-i-applied-to-business-school/</link>
+      <link>https://dansramblings.com/posts/why-i-applied-to-business-school/</link>
       <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://danssorareramblings.github.io/posts/why-i-applied-to-business-school/</guid>
+      <guid>https://dansramblings.com/posts/why-i-applied-to-business-school/</guid>
       <description>Why I applied I’m in my fourth year of being a SWE at Google. It’s a great job. I’ve learned a ton and I’ve met interesting people. But the work feels like work. I’m not particularly passionate about writing software for anonymous enterprises and I now see the job as a means to an end. I see myself doing the minimum to get a passable performance rating and that’s a sign that I need to move on.</description>
     </item>
     
     <item>
       <title>Introducing CycleQuest</title>
-      <link>https://danssorareramblings.github.io/posts/introducing-cyclequest/</link>
+      <link>https://dansramblings.com/posts/introducing-cyclequest/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://danssorareramblings.github.io/posts/introducing-cyclequest/</guid>
+      <guid>https://dansramblings.com/posts/introducing-cyclequest/</guid>
       <description>CycleQuest is a social exercise game where real-world workouts earn you real rewards and bragging rights over your friends.
 Do you ever talk smack with your fit friends about who can run, bike, or swim more, and wish that your friends would just shut up and put their money where their mouth is? With CycleQuest, there are no excuses. Just friendly competition.
 Cool, how does it work? Go to http://beta.acyclequest.com</description>
@@ -32,29 +32,29 @@ Cool, how does it work? Go to http://beta.acyclequest.com</description>
     
     <item>
       <title>Why I Love Doing Improv Comedy</title>
-      <link>https://danssorareramblings.github.io/posts/why-i-love-doing-improv-comedy/</link>
+      <link>https://dansramblings.com/posts/why-i-love-doing-improv-comedy/</link>
       <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://danssorareramblings.github.io/posts/why-i-love-doing-improv-comedy/</guid>
+      <guid>https://dansramblings.com/posts/why-i-love-doing-improv-comedy/</guid>
       <description>A few months ago a friend of mine mentioned that he was taking an improv comedy class and was enjoying it more than he expected to. Looking at my quarantine-stricken calendar, I figured “what the fuck, might as well try it too”. Internally, this represented a leap of faith for me as a prior version of myself would ridicule “theater kids”, “band kids”, “art kids”, or any other kind of kid brave enough to express themself in front of others.</description>
     </item>
     
     <item>
       <title>Player Prospectus: Shane O&#39;Neill</title>
-      <link>https://danssorareramblings.github.io/posts/player-prospectus-shane-oneill/</link>
+      <link>https://dansramblings.com/posts/player-prospectus-shane-oneill/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://danssorareramblings.github.io/posts/player-prospectus-shane-oneill/</guid>
+      <guid>https://dansramblings.com/posts/player-prospectus-shane-oneill/</guid>
       <description>I bought Shane O’Neill because I think he will start at center back for Toronto and play every minute of every game this upcoming season. Toronto is a team on their way up and their defense will steadily improve for the next couple of years.
 The Past Shane’s involvement (or lack thereof) with the Sounders always confused me. This last season, he was mostly a “closer”. Schmeltzer would sub him in at around the 60 minute mark in games where Seattle was ahead and he would go in there and make hard tackles until the final whistle.</description>
     </item>
     
     <item>
       <title>Feature Request: Season-Long Loans</title>
-      <link>https://danssorareramblings.github.io/posts/feature-request-season-long-loans/</link>
+      <link>https://dansramblings.com/posts/feature-request-season-long-loans/</link>
       <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://danssorareramblings.github.io/posts/feature-request-season-long-loans/</guid>
+      <guid>https://dansramblings.com/posts/feature-request-season-long-loans/</guid>
       <description>As I was searching for a card to fill out a sorare team, I was thinking to myself that there has to be a better way to do this. So I wrote a proposal to some friends about how a Sorare lending market would look:
 There should be a lending market for sorare players. This would in general make the sorare card market more efficient and in specific:
 Lower the bar to entry into sorare competitions (competitors can pay a</description>
@@ -62,10 +62,10 @@ Lower the bar to entry into sorare competitions (competitors can pay a</descript
     
     <item>
       <title>2022 MLS Power Rankings - Top 5</title>
-      <link>https://danssorareramblings.github.io/posts/2022-mls-power-rankings-top-5/</link>
+      <link>https://dansramblings.com/posts/2022-mls-power-rankings-top-5/</link>
       <pubDate>Sat, 25 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://danssorareramblings.github.io/posts/2022-mls-power-rankings-top-5/</guid>
+      <guid>https://dansramblings.com/posts/2022-mls-power-rankings-top-5/</guid>
       <description>Nashville SC - Nashville has the best center back in the league in Zimmerman and the 2nd best playmaker in Mukhtar. As of now, there are gaps in the Nashville lineup… McCarty is getting older, Zimmerman’s cohorts in the back 3 could be stronger (looking at you, Miller), and Sapong is a good not great CF. But Nashville has $1M to work with from selling Johnston to Montreal, saved another $1M (and a DP spot) by letting go of Cadiz, and has DP Ake Loba waiting in the wings to fill in at CF.</description>
     </item>
     

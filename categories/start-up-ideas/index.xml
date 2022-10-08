@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Start-up Ideas on Dan&#39;s Ramblings</title>
-    <link>https://danssorareramblings.github.io/categories/start-up-ideas/</link>
+    <link>https://dansramblings.com/categories/start-up-ideas/</link>
     <description>Recent content in Start-up Ideas on Dan&#39;s Ramblings</description>
     <image>
-      <url>https://danssorareramblings.github.io/papermod-cover.png</url>
-      <link>https://danssorareramblings.github.io/papermod-cover.png</link>
+      <url>https://dansramblings.com/papermod-cover.png</url>
+      <link>https://dansramblings.com/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/categories/start-up-ideas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://dansramblings.com/categories/start-up-ideas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introducing CycleQuest</title>
-      <link>https://danssorareramblings.github.io/posts/introducing-cyclequest/</link>
+      <link>https://dansramblings.com/posts/introducing-cyclequest/</link>
       <pubDate>Tue, 18 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://danssorareramblings.github.io/posts/introducing-cyclequest/</guid>
+      <guid>https://dansramblings.com/posts/introducing-cyclequest/</guid>
       <description>CycleQuest is a social exercise game where real-world workouts earn you real rewards and bragging rights over your friends.
 Do you ever talk smack with your fit friends about who can run, bike, or swim more, and wish that your friends would just shut up and put their money where their mouth is? With CycleQuest, there are no excuses. Just friendly competition.
 Cool, how does it work? Go to http://beta.acyclequest.com</description>
