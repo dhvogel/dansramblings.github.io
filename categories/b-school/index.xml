@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>B School on Dan&#39;s Ramblings</title>
+    <link>https://danssorareramblings.github.io/categories/b-school/</link>
+    <description>Recent content in B School on Dan&#39;s Ramblings</description>
+    <image>
+      <url>https://danssorareramblings.github.io/papermod-cover.png</url>
+      <link>https://danssorareramblings.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/categories/b-school/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I applied to business school</title>
+      <link>https://danssorareramblings.github.io/posts/why-i-applied-to-business-school/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danssorareramblings.github.io/posts/why-i-applied-to-business-school/</guid>
+      <description>Why I applied I’m in my fourth year of being a SWE at Google. It’s a great job. I’ve learned a ton and I’ve met interesting people. But the work feels like work. I’m not particularly passionate about writing software for anonymous enterprises and I now see the job as a means to an end. I see myself doing the minimum to get a passable performance rating and that’s a sign that I need to move on.</description>
+    </item>
+    
+  </channel>
+</rss>

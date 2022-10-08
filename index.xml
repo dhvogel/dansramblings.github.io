@@ -9,7 +9,16 @@
       <link>https://danssorareramblings.github.io/papermod-cover.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 18 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I applied to business school</title>
+      <link>https://danssorareramblings.github.io/posts/why-i-applied-to-business-school/</link>
+      <pubDate>Sat, 08 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danssorareramblings.github.io/posts/why-i-applied-to-business-school/</guid>
+      <description>Why I applied I’m in my fourth year of being a SWE at Google. It’s a great job. I’ve learned a ton and I’ve met interesting people. But the work feels like work. I’m not particularly passionate about writing software for anonymous enterprises and I now see the job as a means to an end. I see myself doing the minimum to get a passable performance rating and that’s a sign that I need to move on.</description>
+    </item>
+    
     <item>
       <title>Introducing CycleQuest</title>
       <link>https://danssorareramblings.github.io/posts/introducing-cyclequest/</link>
@@ -58,15 +67,6 @@ Lower the bar to entry into sorare competitions (competitors can pay a</descript
       
       <guid>https://danssorareramblings.github.io/posts/2022-mls-power-rankings-top-5/</guid>
       <description>Nashville SC - Nashville has the best center back in the league in Zimmerman and the 2nd best playmaker in Mukhtar. As of now, there are gaps in the Nashville lineup… McCarty is getting older, Zimmerman’s cohorts in the back 3 could be stronger (looking at you, Miller), and Sapong is a good not great CF. But Nashville has $1M to work with from selling Johnston to Montreal, saved another $1M (and a DP spot) by letting go of Cadiz, and has DP Ake Loba waiting in the wings to fill in at CF.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://danssorareramblings.github.io/posts/why-i-applied-to-business-school/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://danssorareramblings.github.io/posts/why-i-applied-to-business-school/</guid>
-      <description></description>
     </item>
     
   </channel>
