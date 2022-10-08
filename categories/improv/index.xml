@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Improv on Dan&#39;s Ramblings</title>
+    <link>https://danssorareramblings.github.io/categories/improv/</link>
+    <description>Recent content in Improv on Dan&#39;s Ramblings</description>
+    <image>
+      <url>https://danssorareramblings.github.io/papermod-cover.png</url>
+      <link>https://danssorareramblings.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 03 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/categories/improv/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Love Doing Improv Comedy</title>
+      <link>https://danssorareramblings.github.io/posts/why-i-love-doing-improv-comedy/</link>
+      <pubDate>Mon, 03 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://danssorareramblings.github.io/posts/why-i-love-doing-improv-comedy/</guid>
+      <description>A few months ago a friend of mine mentioned that he was taking an improv comedy class and was enjoying it more than he expected to. Looking at my quarantine-stricken calendar, I figured “what the fuck, might as well try it too”. Internally, this represented a leap of faith for me as a prior version of myself would ridicule “theater kids”, “band kids”, “art kids”, or any other kind of kid brave enough to express themself in front of others.</description>
+    </item>
+    
+  </channel>
+</rss>

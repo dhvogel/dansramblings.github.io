@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Feature Request on Dan&#39;s Ramblings</title>
+    <link>https://danssorareramblings.github.io/tags/feature-request/</link>
+    <description>Recent content in Feature Request on Dan&#39;s Ramblings</description>
+    <image>
+      <url>https://danssorareramblings.github.io/papermod-cover.png</url>
+      <link>https://danssorareramblings.github.io/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://danssorareramblings.github.io/tags/feature-request/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Feature Request: Season-Long Loans</title>
+      <link>https://danssorareramblings.github.io/posts/feature-request-season-long-loans/</link>
+      <pubDate>Fri, 31 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://danssorareramblings.github.io/posts/feature-request-season-long-loans/</guid>
+      <description>As I was searching for a card to fill out a sorare team, I was thinking to myself that there has to be a better way to do this. So I wrote a proposal to some friends about how a Sorare lending market would look:
+There should be a lending market for sorare players. This would in general make the sorare card market more efficient and in specific:
+Lower the bar to entry into sorare competitions (competitors can pay a</description>
+    </item>
+    
+  </channel>
+</rss>
