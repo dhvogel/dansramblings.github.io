@@ -9,7 +9,7 @@ TocOpen: false
 
 ### How I applied
 
-At the start of my last job search, I felt demoralized after failing over and over and over again at technical interviews. So I signed up for a night school that specialized in technical interview coaching. I met the other students who, like me, were also being rejected. We supported each other, consoled each other after losses, and celebrated each others' wins. I finally started to get the hang of the interviews and eventually got offers from Google, Facebook, and Palantir. But it was that community that kept me going until that point.
+At the start of my last job search, I felt demoralized after failing over and over at technical interviews. So I signed up for a night school that specialized in technical interview coaching. I met the other students who, like me, were also being rejected. We supported each other, consoled each other after losses, and celebrated each others' wins. I finally started to get the hang of the interviews and eventually got offers from Google, Facebook, and Palantir. But it was that community that kept me going until that point.
 
 That's why, for this career change, I knew I'd increase my chances of success with a community around me. I split up the process into two, and resolved to find community for both parts:
 
