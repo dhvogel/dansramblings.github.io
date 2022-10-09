@@ -9,9 +9,10 @@ TocOpen: false
 
 ### Why I applied
 
-I’m in my fourth year of software engineering at Google. It’s a great job. I’ve learned a ton and I’ve met interesting people.
+I’m in my fourth year of software engineering at Google. It’s a great job. I’ve learned a ton and I’ve met interesting people. But I've increasingly started to
+see the job as a means to an end, as opposed to something I really enjoy doing.
 
-The community that I feel comes from outside of work. The group thread for my improv class is pretty vibrant and we do fun things together. I'm grateful for them. That's what feels good to me -- feeling connected, and feeling like I'm part of something bigger than myself.
+The community that I feel comes from outside of work. The group thread for my improv class is pretty vibrant and we do fun things together. I'm grateful for them. That's what feels good to me -- feeling connected, and feeling like I'm part of something bigger than myself. I want to feel that in what I do from nine-to-five as well.
 
 When I visited home about a year ago, I told my Dad that I was feeling like I hit a plateau. He told me that when he felt that way, he went to business school. That sounded like a reasonable next step.
 
